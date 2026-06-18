@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ms" class="scroll-smooth">
 <head>
   <meta charset="UTF-8">
